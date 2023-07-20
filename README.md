@@ -1,1 +1,1 @@
-# T-rex_game
+Simple T-rex game by C++
